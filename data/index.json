@@ -73,6 +73,15 @@
       "totalChapters": 35
     },
     {
+      "id": "nine-month-contract",
+      "title": "Nine Month Contract",
+      "author": "Amy Daws",
+      "description": "\"A hilariously fresh and spicy rom-com that I couldn't put down!\" -Meghan Quinn, USA Today Bestselling Author Help Wanted: Grumpy mountain man seeks baby momma. Job is an incubator position only. Surrogate must be impervious to grunting as the form of communication and nosy brotherly neighbors. Rustic mountain range housing available upon request. I wanted to pummel my irritating brothers when they posted their own version of a wanted ad to help me with my life. But I can't fault the results onc",
+      "totalWords": 120957,
+      "totalPages": 121,
+      "totalChapters": 56
+    },
+    {
       "id": "piranesi",
       "title": "Piranesi",
       "author": "Susanna Clarke",
@@ -235,5 +244,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-04-10T17:28:30.429Z"
+  "updatedAt": "2026-04-11T15:04:18.353Z"
 }
