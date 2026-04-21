@@ -10,6 +10,15 @@
       "totalChapters": 24
     },
     {
+      "id": "date-time",
+      "title": "Date & Time",
+      "author": "Phil Kaye",
+      "description": "Phil Kaye's debut collection is a stunning tribute to growing up, and all of the challenges and celebrations of the passing of time, as jagged as it may be. Kaye takes the reader on a journey from a complex but iridescent childhood, drawing them into adolescence, and finally on to adulthood. There are first kisses, lost friendships, hair blowing in the wind while driving the vastness of an empty road, and the author positioned in the middle, trying to make sense of it all. Readers will find joy ",
+      "totalWords": 11325,
+      "totalPages": 12,
+      "totalChapters": 2
+    },
+    {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
       "title": "Does God Play Dice?: The New Mathematics of Chaos",
       "author": "Ian Stewart",
@@ -28,22 +37,13 @@
       "totalChapters": 58
     },
     {
-      "id": "godel-escher-bach-an-eternal-golden-braid",
-      "title": "Godel, Escher, Bach-An Eternal Golden Braid",
-      "author": "Douglas R. Hofstadter",
-      "description": "",
-      "totalWords": 324196,
-      "totalPages": 325,
-      "totalChapters": 65
-    },
-    {
-      "id": "house-of-leaves",
-      "title": "House of Leaves",
-      "author": "Mark Z. Danielewski",
-      "description": "",
-      "totalWords": 195141,
-      "totalPages": 196,
-      "totalChapters": 40
+      "id": "how-to-speak-whale-a-voyage-into-the-future-of-animal-communication",
+      "title": "How to Speak Whale: A Voyage Into the Future of Animal Communication",
+      "author": "Tom Mustill",
+      "description": "What if animals and humans could speak to one another? Tom Mustill—the nature documentarian who went viral when a thirty‑ton humpback whale breached onto his kayak—asks this question in his thrilling investigation into whale science and animal communication. “When a whale is in the water, it is like an iceberg: you only see a fraction of it and have no conception of its size.” On September 12, 2015, Tom Mustill was paddling in a two-person kayak with a friend just off the coast of California. It",
+      "totalWords": 97580,
+      "totalPages": 98,
+      "totalChapters": 21
     },
     {
       "id": "letters-to-a-young-poet",
@@ -55,13 +55,13 @@
       "totalChapters": 5
     },
     {
-      "id": "life-3-0-being-human-in-the-age-of-artificial-intelligence",
-      "title": "Life 3_0_ Being Human in the Age of Artificial Intelligence",
-      "author": "Tegmark, Max  & chenjin5.com",
-      "description": "",
-      "totalWords": 119986,
-      "totalPages": 120,
-      "totalChapters": 24
+      "id": "lord-loss",
+      "title": "Lord Loss",
+      "author": "Darren Shan",
+      "description": "SUMMARY: Presumably the only witness to the horrific and bloody murder of his entire family, a teenage boy must outwit not only the mental health professionals determined to cure his delusion, but also the demonic forces only he can see.",
+      "totalWords": 54458,
+      "totalPages": 55,
+      "totalChapters": 21
     },
     {
       "id": "nonlinear-dynamics-and-chaos",
@@ -82,22 +82,22 @@
       "totalChapters": 56
     },
     {
-      "id": "piranesi",
-      "title": "Piranesi",
-      "author": "Susanna Clarke",
-      "description": "",
-      "totalWords": 66613,
-      "totalPages": 67,
-      "totalChapters": 14
+      "id": "no-matter-the-wreckage",
+      "title": "No Matter the Wreckage",
+      "author": "Sarah Kay",
+      "description": "Following the success of her breakout poem, Sarah Kay releases her debut collection of poetry featuring work from the first decade of her career. No Matter the Wreckage presents readers with new and beloved work that showcases Kay's knack for celebrating family, love, travel, history, and unlikely love affairs between inanimate objects (\"Toothbrush to the Bicycle Tire\"), among other curious topics. Both fresh and wise, Kay's poetry allows readers to join in on her journey of discovering herself ",
+      "totalWords": 22416,
+      "totalPages": 23,
+      "totalChapters": 17
     },
     {
-      "id": "project-hail-mary",
-      "title": "Project Hail Mary",
-      "author": "Andy Weir",
-      "description": "",
-      "totalWords": 149588,
-      "totalPages": 150,
-      "totalChapters": 30
+      "id": "reincarnation-blues",
+      "title": "Reincarnation Blues",
+      "author": "Michael Poore",
+      "description": "A wildly imaginative novel about a man who is reincarnated over ten thousand lifetimes to be with his one true love: Death herself. \"Tales of gods and men akin to Neil Gaiman's Sandman as penned by a kindred spirit of Douglas Adams.\"&#8212; Kirkus Reviews (starred review) First we live. Then we die. And then . . . we get another try? Ten thousand tries, to be exact. Ten thousand lives to \"get it right.\" Answer all the Big Questions. Achieve Wisdom. And Become One with Everything. Milo has had 9,",
+      "totalWords": 106139,
+      "totalPages": 107,
+      "totalChapters": 31
     },
     {
       "id": "the-alignment-problem",
@@ -109,6 +109,24 @@
       "totalChapters": 21
     },
     {
+      "id": "the-bell-jar",
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "description": "",
+      "totalWords": 69999,
+      "totalPages": 70,
+      "totalChapters": 3
+    },
+    {
+      "id": "the-bicentennial-man-and-other-stories",
+      "title": "The Bicentennial Man and other stories",
+      "author": "Isaac Asimov",
+      "description": "",
+      "totalWords": 77940,
+      "totalPages": 78,
+      "totalChapters": 1
+    },
+    {
       "id": "the-body-keeps-the-score",
       "title": "The Body Keeps the Score",
       "author": "Bessel van der Kolk MD",
@@ -118,13 +136,13 @@
       "totalChapters": 31
     },
     {
-      "id": "the-book-of-disquiet-penguin-classics",
-      "title": "The Book of Disquiet (Penguin Classics)",
-      "author": "Pessoa, Fernando",
-      "description": "",
-      "totalWords": 183212,
-      "totalPages": 184,
-      "totalChapters": 37
+      "id": "the-deep",
+      "title": "The Deep",
+      "author": "Rivers Solomon",
+      "description": "Yetu holds the memories for her people—water-dwelling descendants of pregnant African slave women thrown overboard by slave owners—who live idyllic lives in the deep. Their past, too traumatic to be remembered regularly, is forgotten by everyone, save one—the historian. This demanding role has been bestowed on Yetu. Yetu remembers for everyone, and the memories, painful and wonderful, traumatic and terrible and miraculous, are destroying her. And so, she flees to the surface, escaping the memori",
+      "totalWords": 40464,
+      "totalPages": 41,
+      "totalChapters": 14
     },
     {
       "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
@@ -145,13 +163,13 @@
       "totalChapters": 46
     },
     {
-      "id": "the-hidden-life-of-trees-1-mysteries-of-nature",
-      "title": "The Hidden Life of Trees_ 1 (Mysteries of Nature)",
-      "author": "Peter Wohlleben",
-      "description": "",
-      "totalWords": 72116,
-      "totalPages": 73,
-      "totalChapters": 15
+      "id": "the-hike",
+      "title": "The Hike",
+      "author": "Drew Magary",
+      "description": "\" The Hike is Cormac McCarthy's Alice in Wonderland &#8212;gritty and terrifying but with deliriously surreal twists and turns.\" &#8212;Jeffrey Cranor, New York Times bestselling cowriter of Welcome to Night Vale \"It's kind of a more cynical version of The Phantom Tollbooth mixed with a game of Dungeons & Dragons.\" &#8212; Wired , chosen as one of \"This Summer's 14 Must-Read Books\" From the author of The Postmortal , a fantasy saga unlike any you've read before, weaving elements of folk tales an",
+      "totalWords": 75831,
+      "totalPages": 76,
+      "totalChapters": 36
     },
     {
       "id": "the-hour-of-the-star",
@@ -163,13 +181,13 @@
       "totalChapters": 6
     },
     {
-      "id": "the-left-hand-of-darkness",
-      "title": "The Left Hand Of Darkness",
-      "author": "Ursula K. Le Guin",
+      "id": "the-martian",
+      "title": "The Martian",
+      "author": "Andy Weir",
       "description": "",
-      "totalWords": 97005,
-      "totalPages": 98,
-      "totalChapters": 20
+      "totalWords": 104581,
+      "totalPages": 105,
+      "totalChapters": 28
     },
     {
       "id": "the-society-of-the-spectacle",
@@ -181,6 +199,15 @@
       "totalChapters": 12
     },
     {
+      "id": "the-sound-of-a-wild-snail-eating",
+      "title": "The Sound of a Wild Snail Eating",
+      "author": "Elisabeth Tova Bailey",
+      "description": "EDITORIAL REVIEW: In a work that beautifully demonstrates the rewards of closely observing nature, Elisabeth Bailey shares an inspiring and intimate story of her uncommon encounter with a *Neohelix albolabris* —a common woodland snail. While an illness keeps her bedridden, Bailey watches a wild snail that has taken up residence on her nightstand. As a result, she discovers the solace and sense of wonder that this mysterious creature brings and comes to a greater under standing of her own confine",
+      "totalWords": 28785,
+      "totalPages": 29,
+      "totalChapters": 37
+    },
+    {
       "id": "the-three-body-problem",
       "title": "The Three-Body Problem",
       "author": "Cixin Liu",
@@ -188,15 +215,6 @@
       "totalWords": 118853,
       "totalPages": 119,
       "totalChapters": 64
-    },
-    {
-      "id": "the-unbearable-lightness-of-being",
-      "title": "The Unbearable Lightness of Being",
-      "author": "MILAN KUNDERA",
-      "description": "",
-      "totalWords": 85272,
-      "totalPages": 86,
-      "totalChapters": 18
     },
     {
       "id": "the-art-of-gathering-how-we-meet-and-why-it-matters",
@@ -208,13 +226,13 @@
       "totalChapters": 18
     },
     {
-      "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
-      "title": "Tomorrow, and Tomorrow, and Tomorrow_ A novel",
-      "author": "Gabrielle Zevin",
-      "description": "",
-      "totalWords": 134403,
-      "totalPages": 135,
-      "totalChapters": 27
+      "id": "the-log-from-the-sea-of-cortez",
+      "title": "The log from the Sea of Cortez",
+      "author": "John Steinbeck; Edward Flanders Ricketts",
+      "description": "EDITORIAL REVIEW: Today, nearly forty years after his death, Nobel Prize winner John Steinbeck remains one of America’s greatest writers and cultural figures. Over the next year, his many works published as black-spine Penguin Classics for the first time and will feature eye-catching, newly commissioned art. Penguin Classics is proud to present these seminal works to a new generation of readers—and to the many who revisit them again and again.",
+      "totalWords": 121680,
+      "totalPages": 122,
+      "totalChapters": 58
     },
     {
       "id": "a-court-of-mist-and-fury",
@@ -233,16 +251,7 @@
       "totalWords": 200004,
       "totalPages": 201,
       "totalChapters": 89
-    },
-    {
-      "id": "a-court-of-frost-and-starlight-a-court-of-thorns-and-roses",
-      "title": "A Court of Frost and Starlight (A Court of Thorns and Roses)",
-      "author": "Sarah J. Maas",
-      "description": "",
-      "totalWords": 64260,
-      "totalPages": 65,
-      "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-04-11T15:04:18.353Z"
+  "updatedAt": "2026-04-21T02:44:16.292Z"
 }

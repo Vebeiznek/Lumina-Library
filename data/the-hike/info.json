@@ -1,0 +1,264 @@
+{
+  "id": "the-hike",
+  "title": "The Hike",
+  "author": "Drew Magary",
+  "description": "\" The Hike is Cormac McCarthy's Alice in Wonderland &#8212;gritty and terrifying but with deliriously surreal twists and turns.\" &#8212;Jeffrey Cranor, New York Times bestselling cowriter of Welcome to Night Vale \"It's kind of a more cynical version of The Phantom Tollbooth mixed with a game of Dungeons & Dragons.\" &#8212; Wired , chosen as one of \"This Summer's 14 Must-Read Books\" From the author of The Postmortal , a fantasy saga unlike any you've read before, weaving elements of folk tales an",
+  "filename": "The Hike _ A Novel -- Magary, Drew -- Penguin Random House LLC, New York, New York, 2016 -- Penguin Publishing Group -- isbn13 9780399563850 -- fe99ae3641c8a1f4490391a76306a694 -- Anna’s Archive.epub",
+  "totalWords": 75831,
+  "totalPages": 76,
+  "totalChapters": 36,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright",
+      "wordCount": 133,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Contents",
+      "wordCount": 143,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "CHAPTER ONE: THE PATH",
+      "wordCount": 1801,
+      "pageCount": 2,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "CHAPTER TWO: THE GATE",
+      "wordCount": 1895,
+      "pageCount": 2,
+      "startPage": 5
+    },
+    {
+      "index": 5,
+      "title": "CHAPTER THREE: THE MOUNTAINTOP",
+      "wordCount": 1112,
+      "pageCount": 2,
+      "startPage": 7
+    },
+    {
+      "index": 6,
+      "title": "CHAPTER FOUR: THE FIRE",
+      "wordCount": 3585,
+      "pageCount": 4,
+      "startPage": 9
+    },
+    {
+      "index": 7,
+      "title": "CHAPTER FIVE: COURTSHIRE",
+      "wordCount": 1805,
+      "pageCount": 2,
+      "startPage": 13
+    },
+    {
+      "index": 8,
+      "title": "CHAPTER SIX: THE YELLOW LIGHT",
+      "wordCount": 1825,
+      "pageCount": 2,
+      "startPage": 15
+    },
+    {
+      "index": 9,
+      "title": "CHAPTER SEVEN: THE BEACH",
+      "wordCount": 1914,
+      "pageCount": 2,
+      "startPage": 17
+    },
+    {
+      "index": 10,
+      "title": "CHAPTER EIGHT: THE ATTIC",
+      "wordCount": 986,
+      "pageCount": 1,
+      "startPage": 19
+    },
+    {
+      "index": 11,
+      "title": "CHAPTER NINE: THE CONTROLS",
+      "wordCount": 2434,
+      "pageCount": 3,
+      "startPage": 20
+    },
+    {
+      "index": 12,
+      "title": "CHAPTER TEN: THE CRAFT",
+      "wordCount": 2397,
+      "pageCount": 3,
+      "startPage": 23
+    },
+    {
+      "index": 13,
+      "title": "CHAPTER ELEVEN: NIGHT ON THE OCEAN",
+      "wordCount": 1931,
+      "pageCount": 2,
+      "startPage": 26
+    },
+    {
+      "index": 14,
+      "title": "CHAPTER TWELVE: THE PACK",
+      "wordCount": 1983,
+      "pageCount": 2,
+      "startPage": 28
+    },
+    {
+      "index": 15,
+      "title": "CHAPTER THIRTEEN: THE MOUNTAIN",
+      "wordCount": 1961,
+      "pageCount": 2,
+      "startPage": 30
+    },
+    {
+      "index": 16,
+      "title": "CHAPTER FOURTEEN: FERMONA",
+      "wordCount": 1975,
+      "pageCount": 2,
+      "startPage": 32
+    },
+    {
+      "index": 17,
+      "title": "CHAPTER FIFTEEN: THE HOLE",
+      "wordCount": 2589,
+      "pageCount": 3,
+      "startPage": 34
+    },
+    {
+      "index": 18,
+      "title": "CHAPTER SIXTEEN: THE FIGHT",
+      "wordCount": 3825,
+      "pageCount": 4,
+      "startPage": 37
+    },
+    {
+      "index": 19,
+      "title": "CHAPTER SEVENTEEN: THE SPLIT",
+      "wordCount": 3285,
+      "pageCount": 4,
+      "startPage": 41
+    },
+    {
+      "index": 20,
+      "title": "CHAPTER EIGHTEEN: TONY WATTS",
+      "wordCount": 3232,
+      "pageCount": 4,
+      "startPage": 45
+    },
+    {
+      "index": 21,
+      "title": "CHAPTER NINETEEN: THE CURIOUSLY UNDEAD",
+      "wordCount": 2552,
+      "pageCount": 3,
+      "startPage": 49
+    },
+    {
+      "index": 22,
+      "title": "CHAPTER TWENTY: THE CASTLE",
+      "wordCount": 1681,
+      "pageCount": 2,
+      "startPage": 52
+    },
+    {
+      "index": 23,
+      "title": "CHAPTER TWENTY-ONE: THE HOTEL",
+      "wordCount": 1355,
+      "pageCount": 2,
+      "startPage": 54
+    },
+    {
+      "index": 24,
+      "title": "CHAPTER TWENTY-TWO: 906",
+      "wordCount": 2333,
+      "pageCount": 3,
+      "startPage": 56
+    },
+    {
+      "index": 25,
+      "title": "CHAPTER TWENTY-THREE: THE JOB",
+      "wordCount": 3306,
+      "pageCount": 4,
+      "startPage": 59
+    },
+    {
+      "index": 26,
+      "title": "CHAPTER TWENTY-FOUR: CISCO",
+      "wordCount": 2818,
+      "pageCount": 3,
+      "startPage": 63
+    },
+    {
+      "index": 27,
+      "title": "CHAPTER TWENTY-FIVE: THE POISON",
+      "wordCount": 2517,
+      "pageCount": 3,
+      "startPage": 66
+    },
+    {
+      "index": 28,
+      "title": "CHAPTER TWENTY-SIX: VORIS",
+      "wordCount": 4244,
+      "pageCount": 5,
+      "startPage": 69
+    },
+    {
+      "index": 29,
+      "title": "CHAPTER TWENTY-SEVEN: THE VILLA",
+      "wordCount": 2616,
+      "pageCount": 3,
+      "startPage": 74
+    },
+    {
+      "index": 30,
+      "title": "CHAPTER TWENTY-EIGHT: CRAB",
+      "wordCount": 2334,
+      "pageCount": 3,
+      "startPage": 77
+    },
+    {
+      "index": 31,
+      "title": "CHAPTER TWENTY-NINE: THE TWO BENS",
+      "wordCount": 846,
+      "pageCount": 1,
+      "startPage": 80
+    },
+    {
+      "index": 32,
+      "title": "CHAPTER THIRTY: THE TRAIN",
+      "wordCount": 3959,
+      "pageCount": 4,
+      "startPage": 81
+    },
+    {
+      "index": 33,
+      "title": "CHAPTER THIRTY-ONE: THE PRODUCER",
+      "wordCount": 2874,
+      "pageCount": 3,
+      "startPage": 85
+    },
+    {
+      "index": 34,
+      "title": "CHAPTER THIRTY-TWO: CROCUS DRIVE",
+      "wordCount": 1487,
+      "pageCount": 2,
+      "startPage": 88
+    },
+    {
+      "index": 35,
+      "title": "ACKNOWLEDGMENTS",
+      "wordCount": 31,
+      "pageCount": 1,
+      "startPage": 90
+    },
+    {
+      "index": 36,
+      "title": "ABOUT THE AUTHOR",
+      "wordCount": 67,
+      "pageCount": 1,
+      "startPage": 91
+    }
+  ]
+}

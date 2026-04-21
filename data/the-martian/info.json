@@ -1,0 +1,208 @@
+{
+  "id": "the-martian",
+  "title": "The Martian",
+  "author": "Andy Weir",
+  "description": "",
+  "filename": "The Martian -- Weir, Andy -- 2014 -- Crown -- f24a4fbdc9bcafb0bb837696f536a038 -- Anna’s Archive.epub",
+  "totalWords": 104581,
+  "totalPages": 105,
+  "totalChapters": 28,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright",
+      "wordCount": 144,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Contents",
+      "wordCount": 59,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 1",
+      "wordCount": 2348,
+      "pageCount": 3,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 2",
+      "wordCount": 3276,
+      "pageCount": 4,
+      "startPage": 6
+    },
+    {
+      "index": 5,
+      "title": "Chapter 3",
+      "wordCount": 3179,
+      "pageCount": 4,
+      "startPage": 10
+    },
+    {
+      "index": 6,
+      "title": "Chapter 4",
+      "wordCount": 2977,
+      "pageCount": 3,
+      "startPage": 14
+    },
+    {
+      "index": 7,
+      "title": "Chapter 5",
+      "wordCount": 3397,
+      "pageCount": 4,
+      "startPage": 17
+    },
+    {
+      "index": 8,
+      "title": "Chapter 6",
+      "wordCount": 4075,
+      "pageCount": 5,
+      "startPage": 21
+    },
+    {
+      "index": 9,
+      "title": "Chapter 7",
+      "wordCount": 4793,
+      "pageCount": 5,
+      "startPage": 26
+    },
+    {
+      "index": 10,
+      "title": "Chapter 8",
+      "wordCount": 4079,
+      "pageCount": 5,
+      "startPage": 31
+    },
+    {
+      "index": 11,
+      "title": "Chapter 9",
+      "wordCount": 3133,
+      "pageCount": 4,
+      "startPage": 36
+    },
+    {
+      "index": 12,
+      "title": "Chapter 10",
+      "wordCount": 2300,
+      "pageCount": 3,
+      "startPage": 40
+    },
+    {
+      "index": 13,
+      "title": "Chapter 11",
+      "wordCount": 4671,
+      "pageCount": 5,
+      "startPage": 43
+    },
+    {
+      "index": 14,
+      "title": "Chapter 12",
+      "wordCount": 3454,
+      "pageCount": 4,
+      "startPage": 48
+    },
+    {
+      "index": 15,
+      "title": "Chapter 13",
+      "wordCount": 3222,
+      "pageCount": 4,
+      "startPage": 52
+    },
+    {
+      "index": 16,
+      "title": "Chapter 14",
+      "wordCount": 4519,
+      "pageCount": 5,
+      "startPage": 56
+    },
+    {
+      "index": 17,
+      "title": "Chapter 15",
+      "wordCount": 5111,
+      "pageCount": 6,
+      "startPage": 61
+    },
+    {
+      "index": 18,
+      "title": "Chapter 16",
+      "wordCount": 6276,
+      "pageCount": 7,
+      "startPage": 67
+    },
+    {
+      "index": 19,
+      "title": "Chapter 17",
+      "wordCount": 3691,
+      "pageCount": 4,
+      "startPage": 74
+    },
+    {
+      "index": 20,
+      "title": "Chapter 18",
+      "wordCount": 4331,
+      "pageCount": 5,
+      "startPage": 78
+    },
+    {
+      "index": 21,
+      "title": "Chapter 19",
+      "wordCount": 3333,
+      "pageCount": 4,
+      "startPage": 83
+    },
+    {
+      "index": 22,
+      "title": "Chapter 20",
+      "wordCount": 3742,
+      "pageCount": 4,
+      "startPage": 87
+    },
+    {
+      "index": 23,
+      "title": "Chapter 21",
+      "wordCount": 5058,
+      "pageCount": 6,
+      "startPage": 91
+    },
+    {
+      "index": 24,
+      "title": "Chapter 22",
+      "wordCount": 3844,
+      "pageCount": 4,
+      "startPage": 97
+    },
+    {
+      "index": 25,
+      "title": "Chapter 23",
+      "wordCount": 4012,
+      "pageCount": 5,
+      "startPage": 101
+    },
+    {
+      "index": 26,
+      "title": "Chapter 24",
+      "wordCount": 4098,
+      "pageCount": 5,
+      "startPage": 106
+    },
+    {
+      "index": 27,
+      "title": "Chapter 25",
+      "wordCount": 4713,
+      "pageCount": 5,
+      "startPage": 111
+    },
+    {
+      "index": 28,
+      "title": "Chapter 26",
+      "wordCount": 6746,
+      "pageCount": 7,
+      "startPage": 116
+    }
+  ]
+}
