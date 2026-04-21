@@ -1,44 +1,35 @@
 name: Process Books
-
 on:
   push:
     paths:
       - 'books/**'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 concurrency:
   group: process-books
   cancel-in-progress: false
-
 jobs:
   process:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-
       - name: Install calibre (for mobi/azw3)
-  run: |
-    mobi_files=$(find books/ -name "*.mobi" -o -name "*.azw3" 2>/dev/null)
-    if [ -n "$mobi_files" ]; then
-      echo "mobi/azw3 files found, installing calibre..."
-      sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --fix-missing calibre
-    else
-      echo "No mobi/azw3 files — skipping calibre install"
-    fi
-
+        run: |
+          mobi_files=$(find books/ -name "*.mobi" -o -name "*.azw3" 2>/dev/null)
+          if [ -n "$mobi_files" ]; then
+            echo "mobi/azw3 files found, installing calibre..."
+            sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --fix-missing calibre
+          else
+            echo "No mobi/azw3 files — skipping calibre install"
+          fi
       - name: Install dependencies
         run: npm install
-
       - name: Process books
         run: node scripts/process-books.mjs
-
       - name: Commit generated data
         run: |
           git config user.name "Library Bot"
@@ -47,6 +38,5 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: process books [skip ci]"
           git pull --rebase origin main
           git push
-
       - name: Purge jsDelivr cache
         run: curl -sf "https://purge.jsdelivr.net/gh/sinxisterrr/Sage-Library@main/data/index.json" || true
