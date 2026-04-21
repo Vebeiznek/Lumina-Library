@@ -3,108 +3,108 @@
   "title": "Piranesi",
   "author": "Susanna Clarke",
   "description": "",
-  "filename": "Piranesi -- Susanna Clarke; Bloomsbury Publishing -- First published in Great Britain, London ; Oxford ; New York -- Bloomsbury Publishing PLC -- 9781526622426 -- 66fe1d47e0151a81e15686763b7348aa -- Anna’s Archive.pdf",
-  "totalWords": 66613,
-  "totalPages": 67,
+  "filename": "Piranesi -- Susanna Clarke; Bloomsbury Publishing -- Women's Prize For Fiction Winner, 2021 -- Bloomsbury Publishing, London -- isbn13 9781526622426 -- cac88ef7b9c1b7d1fbe33be9f0cf1bca -- Anna’s Archive.epub",
+  "totalWords": 64848,
+  "totalPages": 65,
   "totalChapters": 14,
   "chapters": [
     {
       "index": 1,
-      "title": "Part 1",
-      "wordCount": 5000,
-      "pageCount": 5,
+      "title": "Chapter 1",
+      "wordCount": 2094,
+      "pageCount": 3,
       "startPage": 1
     },
     {
       "index": 2,
-      "title": "Part 2",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 6
+      "title": "Chapter 2",
+      "wordCount": 162,
+      "pageCount": 1,
+      "startPage": 4
     },
     {
       "index": 3,
-      "title": "Part 3",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 11
+      "title": "Chapter 3",
+      "wordCount": 95,
+      "pageCount": 1,
+      "startPage": 5
     },
     {
       "index": 4,
-      "title": "Part 4",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 16
+      "title": "Chapter 4",
+      "wordCount": 322,
+      "pageCount": 1,
+      "startPage": 6
     },
     {
       "index": 5,
-      "title": "Part 5",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 21
+      "title": "Chapter 5",
+      "wordCount": 3980,
+      "pageCount": 4,
+      "startPage": 7
     },
     {
       "index": 6,
-      "title": "Part 6",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 26
+      "title": "Chapter 6",
+      "wordCount": 17029,
+      "pageCount": 18,
+      "startPage": 11
     },
     {
       "index": 7,
-      "title": "Part 7",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 31
+      "title": "Chapter 7",
+      "wordCount": 10578,
+      "pageCount": 11,
+      "startPage": 29
     },
     {
       "index": 8,
-      "title": "Part 8",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 36
+      "title": "Chapter 8",
+      "wordCount": 11771,
+      "pageCount": 12,
+      "startPage": 40
     },
     {
       "index": 9,
-      "title": "Part 9",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 41
+      "title": "Chapter 9",
+      "wordCount": 2659,
+      "pageCount": 3,
+      "startPage": 52
     },
     {
       "index": 10,
-      "title": "Part 10",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 46
+      "title": "Chapter 10",
+      "wordCount": 12085,
+      "pageCount": 13,
+      "startPage": 55
     },
     {
       "index": 11,
-      "title": "Part 11",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 51
+      "title": "Chapter 11",
+      "wordCount": 3345,
+      "pageCount": 4,
+      "startPage": 68
     },
     {
       "index": 12,
-      "title": "Part 12",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 56
+      "title": "Chapter 12",
+      "wordCount": 250,
+      "pageCount": 1,
+      "startPage": 72
     },
     {
       "index": 13,
-      "title": "Part 13",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 61
+      "title": "Chapter 13",
+      "wordCount": 213,
+      "pageCount": 1,
+      "startPage": 73
     },
     {
       "index": 14,
-      "title": "Part 14",
-      "wordCount": 1613,
-      "pageCount": 2,
-      "startPage": 66
+      "title": "Copyright Page",
+      "wordCount": 265,
+      "pageCount": 1,
+      "startPage": 74
     }
   ]
 }
