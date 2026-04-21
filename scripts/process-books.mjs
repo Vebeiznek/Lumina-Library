@@ -56,7 +56,6 @@ function splitIntoPages(text, wordsPerPage = WORDS_PER_PAGE) {
   return pages;
 }
 
-// Split flat text into synthetic chapters of ~N words each
 function makeSyntheticChapters(text, wordsPerChapter = WORDS_PER_SYNTHETIC_CHAPTER) {
   const words = text.split(/\s+/).filter(Boolean);
   const chapters = [];
@@ -66,15 +65,11 @@ function makeSyntheticChapters(text, wordsPerChapter = WORDS_PER_SYNTHETIC_CHAPT
   return chapters;
 }
 
-// Parse title + author from Anna's Archive filename format:
-// "[1] Title -- Author -- ... -- Anna's Archive.ext"
 function parseFilename(filename) {
   const withoutExt = filename.replace(/\.[^.]+$/, '');
   const parts = withoutExt.split(' -- ');
-  // Strip leading series number like "[1] "
   const rawTitle = parts[0].trim().replace(/^\[\d+\]\s*/, '');
   const rawAuthor = parts[1]?.trim() || 'Unknown';
-  // Clean up author (e.g. "Maas, Sarah J_" → keep as-is, underscore cleanup)
   const author = rawAuthor.replace(/_/g, '.').split(';')[0].trim();
   return { title: rawTitle, author };
 }
@@ -145,7 +140,13 @@ async function writeBookData({ id, title, author, description, filename, chapter
 
 async function processEpub(filePath) {
   const filename = path.basename(filePath);
-  const epub = await EPub.createAsync(filePath);
+
+  let epub;
+  try {
+    epub = await EPub.createAsync(filePath);
+  } catch (err) {
+    throw new Error(`epub2 failed to parse file: ${err.message}`);
+  }
 
   const title = epub.metadata.title || parseFilename(filename).title;
   const author = epub.metadata.creator || epub.metadata.author || parseFilename(filename).author;
@@ -203,7 +204,6 @@ async function processMobiAzw3(filePath) {
   const { title: fnTitle, author: fnAuthor } = parseFilename(filename);
   const ext = path.extname(filePath).toLowerCase().slice(1);
 
-  // Check calibre is available
   const calibreAvailable = await execFileAsync('which', ['ebook-convert'])
     .then(() => true)
     .catch(() => false);
@@ -257,7 +257,7 @@ async function main() {
         console.log(`  ✓ "${entry.title}" by ${entry.author} — ${entry.totalChapters} parts/chapters, ${entry.totalPages} pages`);
       }
     } catch (err) {
-      console.error(`  ✗ Failed (${file}): ${err.message}`);
+      console.error(`  ✗ Skipping (${file}): ${err.message}`);
     }
   }
 
