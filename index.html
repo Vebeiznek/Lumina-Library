@@ -1,98 +1,80 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2113.65">
-  <style type="text/css">
-    body {background-color: #f9f8f5}
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #1a1a1a; -webkit-text-stroke: #1a1a1a}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #1a1a1a; -webkit-text-stroke: #1a1a1a; min-height: 14.0px}
-    span.s1 {font-kerning: none}
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sage Library</title>
+  <style>
+    body { font-family: Georgia, serif; max-width: 800px; margin: 60px auto; padding: 0 20px; color: #222; background: #faf9f7; }
+    h1 { font-size: 2rem; font-weight: normal; border-bottom: 1px solid #ddd; padding-bottom: 12px; }
+    .subtitle { color: #666; font-style: italic; margin-top: -8px; margin-bottom: 32px; }
+    .book { padding: 16px 0; border-bottom: 1px solid #eee; }
+    .book-title { font-size: 1.15rem; font-weight: bold; }
+    .book-author { color: #555; }
+    .book-meta { font-size: 0.85rem; color: #888; margin-top: 4px; }
+    .book-desc { margin-top: 6px; font-size: 0.95rem; color: #444; }
+    #search { width: 100%; padding: 10px; font-size: 1rem; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 24px; box-sizing: border-box; }
+    #count { color: #888; font-size: 0.9rem; margin-bottom: 16px; }
+    .empty { color: #888; font-style: italic; }
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">&lt;!DOCTYPE html&gt;</span></p>
-<p class="p1"><span class="s1">&lt;html lang="en"&gt;</span></p>
-<p class="p1"><span class="s1">&lt;head&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;meta charset="UTF-8"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;title&gt;Sage Library&lt;/title&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;style&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>body { font-family: Georgia, serif; max-width: 800px; margin: 60px auto; padding: 0 20px; color: #222; background: #faf9f7; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>h1 { font-size: 2rem; font-weight: normal; border-bottom: 1px solid #ddd; padding-bottom: 12px; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>.subtitle { color: #666; font-style: italic; margin-top: -8px; margin-bottom: 32px; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>.book { padding: 16px 0; border-bottom: 1px solid #eee; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>.book-title { font-size: 1.15rem; font-weight: bold; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>.book-author { color: #555; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>.book-meta { font-size: 0.85rem; color: #888; margin-top: 4px; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>.book-desc { margin-top: 6px; font-size: 0.95rem; color: #444; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>#search { width: 100%; padding: 10px; font-size: 1rem; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 24px; box-sizing: border-box; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>#count { color: #888; font-size: 0.9rem; margin-bottom: 16px; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>.empty { color: #888; font-style: italic; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/style&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/head&gt;</span></p>
-<p class="p1"><span class="s1">&lt;body&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;h1&gt;Sage Library&lt;/h1&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;p class="subtitle"&gt;A shared reading library for AI companions&lt;/p&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;input type="text" id="search" placeholder="Search by title or author..." oninput="filterBooks()"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;div id="count"&gt;&lt;/div&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;div id="books"&gt;&lt;/div&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;script&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>let allBooks = [];</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>function escape(str) {</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>return String(str || '')</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>.replace(/&amp;/g, '&amp;amp;')</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>.replace(/&lt;/g, '&amp;lt;')</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>.replace(/&gt;/g, '&amp;gt;')</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>.replace(/"/g, '&amp;quot;')</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>.replace(/'/g, '&amp;#39;');</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>async function load() {</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>try {</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>const res = await fetch('./data/index.json');</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>const data = await res.json();</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>allBooks = data.books || [];</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>render(allBooks);</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>} catch (e) {</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>document.getElementById('books').innerHTML = '&lt;p class="empty"&gt;Library is empty or still processing.&lt;/p&gt;';</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>function render(books) {</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>const el = document.getElementById('books');</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>const count = document.getElementById('count');</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>count.textContent = books.length === 0 ? '' : `${books.length} book${books.length === 1 ? '' : 's'}`;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>if (books.length === 0) {</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>el.innerHTML = '&lt;p class="empty"&gt;No books found.&lt;/p&gt;';</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>return;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>el.innerHTML = books.map(b =&gt; `</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;div class="book"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;div class="book-title"&gt;${escape(b.title)}&lt;/div&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;div class="book-author"&gt;${escape(b.author)}&lt;/div&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;div class="book-meta"&gt;${escape(b.totalChapters)} chapters &amp;middot; ${escape(b.totalPages)} pages &amp;middot; ${(b.totalWords / 1000).toFixed(0)}k words&lt;/div&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>${b.description ? `&lt;div class="book-desc"&gt;${escape(b.description)}&lt;/div&gt;` : ''}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>`).join('');</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>function filterBooks() {</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>const q = document.getElementById('search').value.toLowerCase();</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>if (!q) { render(allBooks); return; }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>render(allBooks.filter(b =&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>b.title.toLowerCase().includes(q) || b.author.toLowerCase().includes(q)</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>));</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>load();</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/script&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/body&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/html&gt;</span></p>
+  <h1>Sage Library</h1>
+  <p class="subtitle">A shared reading library for AI companions</p>
+  <input type="text" id="search" placeholder="Search by title or author..." oninput="filterBooks()">
+  <div id="count"></div>
+  <div id="books"></div>
+
+  <script>
+    let allBooks = [];
+
+    function escape(str) {
+      return String(str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    async function load() {
+      try {
+        const res = await fetch('./data/index.json');
+        const data = await res.json();
+        allBooks = data.books || [];
+        render(allBooks);
+      } catch (e) {
+        document.getElementById('books').innerHTML = '<p class="empty">Library is empty or still processing.</p>';
+      }
+    }
+
+    function render(books) {
+      const el = document.getElementById('books');
+      const count = document.getElementById('count');
+      count.textContent = books.length === 0 ? '' : `${books.length} book${books.length === 1 ? '' : 's'}`;
+      if (books.length === 0) {
+        el.innerHTML = '<p class="empty">No books found.</p>';
+        return;
+      }
+      el.innerHTML = books.map(b => `
+        <div class="book">
+          <div class="book-title">${escape(b.title)}</div>
+          <div class="book-author">${escape(b.author)}</div>
+          <div class="book-meta">${escape(b.totalChapters)} chapters &middot; ${escape(b.totalPages)} pages &middot; ${(b.totalWords / 1000).toFixed(0)}k words</div>
+          ${b.description ? `<div class="book-desc">${escape(b.description)}</div>` : ''}
+        </div>
+      `).join('');
+    }
+
+    function filterBooks() {
+      const q = document.getElementById('search').value.toLowerCase();
+      if (!q) { render(allBooks); return; }
+      render(allBooks.filter(b =>
+        b.title.toLowerCase().includes(q) || b.author.toLowerCase().includes(q)
+      ));
+    }
+
+    load();
+  </script>
 </body>
 </html>
