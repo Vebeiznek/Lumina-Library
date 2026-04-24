@@ -55,15 +55,6 @@
       "totalChapters": 58
     },
     {
-      "id": "fairy-tale-a-novel",
-      "title": "Fairy Tale; a novel",
-      "author": "Stephen King",
-      "description": "",
-      "totalWords": 220721,
-      "totalPages": 221,
-      "totalChapters": 45
-    },
-    {
       "id": "fourth-wing",
       "title": "Fourth Wing",
       "author": "Rebecca Yarros",
@@ -397,5 +388,5 @@
       "totalChapters": 38
     }
   ],
-  "updatedAt": "2026-04-24T02:18:22.246Z"
+  "updatedAt": "2026-04-24T02:28:40.276Z"
 }
