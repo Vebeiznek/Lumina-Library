@@ -1,0 +1,47 @@
+{
+  "id": "meyer-stephenie-new-moon",
+  "title": "Meyer, Stephenie - New Moon",
+  "author": "Unknown",
+  "description": "",
+  "filename": "[Twilight 2] New Moon -- Meyer, Stephenie -- Twilight Saga, 2, epub, 2010 -- 86e7312e6808e110759f807b9549b78e -- Anna’s Archive.epub",
+  "totalWords": 133587,
+  "totalPages": 134,
+  "totalChapters": 5,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 32335,
+      "pageCount": 33,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 32768,
+      "pageCount": 33,
+      "startPage": 34
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 32158,
+      "pageCount": 33,
+      "startPage": 67
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 32290,
+      "pageCount": 33,
+      "startPage": 100
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 4036,
+      "pageCount": 5,
+      "startPage": 133
+    }
+  ]
+}

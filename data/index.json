@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "a-destiny-of-dragons",
+      "title": "A Destiny of Dragons",
+      "author": "T. J. Klune",
+      "description": "Sequel to The Lightning-Struck Heart Once upon a time, the wizard’s apprentice Sam of Wilds got his happily ever after in the arms of his cornerstone, Knight Commander Ryan Foxheart. A year has passed, and while Sam’s been captured five or six more times since then, things are pretty great. His parents are happy, Gary and Tiggy still eat sass for breakfast, Randall is somehow alive despite being older than the gods, the King rules with a gentle hand, Kevin the dragon is as gross as ever, Morgan ",
+      "totalWords": 160098,
+      "totalPages": 161,
+      "totalChapters": 32
+    },
+    {
       "id": "a-psalm-for-the-wild-built",
       "title": "A Psalm for the Wild-Built",
       "author": "Becky Chambers",
@@ -46,6 +55,24 @@
       "totalChapters": 58
     },
     {
+      "id": "fairy-tale-a-novel",
+      "title": "Fairy Tale; a novel",
+      "author": "Stephen King",
+      "description": "",
+      "totalWords": 220721,
+      "totalPages": 221,
+      "totalChapters": 45
+    },
+    {
+      "id": "fourth-wing",
+      "title": "Fourth Wing",
+      "author": "Rebecca Yarros",
+      "description": "Series: The Empyrean #1 Genre: Fantasy ebook, 492 pages Hardcover, 512 pages Published: 2023 Enter the brutal and elite world of a war college for dragon riders from USA Today bestselling author Rebecca Yarros Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general—also known as her tough-as-talons mother—has ordered Violet to join the hundreds of candidates striving to become the elite of Navarre: drag",
+      "totalWords": 185463,
+      "totalPages": 186,
+      "totalChapters": 47
+    },
+    {
       "id": "how-to-speak-whale-a-voyage-into-the-future-of-animal-communication",
       "title": "How to Speak Whale: A Voyage Into the Future of Animal Communication",
       "author": "Tom Mustill",
@@ -53,6 +80,15 @@
       "totalWords": 97580,
       "totalPages": 98,
       "totalChapters": 21
+    },
+    {
+      "id": "iron-flame",
+      "title": "Iron Flame",
+      "author": "Rebecca Yarros",
+      "description": "The instant number one Sunday Times bestseller and thrilling sequel to the global phenomenon, Fourth Wing! Don''t miss out on the series that the world can''t stop talking about: ''An absolute romantasy sensation . . . Yarros is the true inheritor of Harry Potter and inspires Hunger Games levels of devotion'' - Guardian ''Fear not, levels of fighting, rebelliousness and all-round sexiness are still sky-high'' - Daily Mail ''Iron Flame is on course to set the world alight'' - Glamour ''Yarros had",
+      "totalWords": 252397,
+      "totalPages": 253,
+      "totalChapters": 134
     },
     {
       "id": "letters-to-a-young-poet",
@@ -98,6 +134,15 @@
       "totalWords": 22416,
       "totalPages": 23,
       "totalChapters": 17
+    },
+    {
+      "id": "onyx-storm-the-empyrean-book-3",
+      "title": "Onyx Storm (The Empyrean Book 3)",
+      "author": "Rebecca Yarros",
+      "description": "",
+      "totalWords": 211656,
+      "totalPages": 212,
+      "totalChapters": 8
     },
     {
       "id": "piranesi",
@@ -199,6 +244,15 @@
       "totalChapters": 6
     },
     {
+      "id": "the-lightning-struck-heart",
+      "title": "The Lightning-Struck Heart",
+      "author": "T. J. Klune",
+      "description": "",
+      "totalWords": 171823,
+      "totalPages": 172,
+      "totalChapters": 42
+    },
+    {
       "id": "the-martian",
       "title": "The Martian",
       "author": "Andy Weir",
@@ -244,6 +298,15 @@
       "totalChapters": 18
     },
     {
+      "id": "the-consumption-of-magic",
+      "title": "The Consumption of Magic",
+      "author": "TJ Klune",
+      "description": "Sam of Wilds and his band of misfits travel to the mountains in the North to convince the remaining dragons to stand against Myrin. Along the way, Sam learns secrets of the past that will change the course of the future.",
+      "totalWords": 165472,
+      "totalPages": 166,
+      "totalChapters": 33
+    },
+    {
       "id": "the-log-from-the-sea-of-cortez",
       "title": "The log from the Sea of Cortez",
       "author": "John Steinbeck; Edward Flanders Ricketts",
@@ -251,6 +314,15 @@
       "totalWords": 121680,
       "totalPages": 122,
       "totalChapters": 58
+    },
+    {
+      "id": "a-court-of-thorns-and-roses",
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "description": "",
+      "totalWords": 130205,
+      "totalPages": 131,
+      "totalChapters": 27
     },
     {
       "id": "a-court-of-mist-and-fury",
@@ -269,7 +341,61 @@
       "totalWords": 200004,
       "totalPages": 201,
       "totalChapters": 89
+    },
+    {
+      "id": "a-court-of-frost-and-starlight",
+      "title": "A Court of Frost and Starlight",
+      "author": "Sarah J. Maas",
+      "description": "",
+      "totalWords": 64216,
+      "totalPages": 65,
+      "totalChapters": 13
+    },
+    {
+      "id": "twilight-1-twilight",
+      "title": "Twilight 1 - Twilight",
+      "author": "Meyer, Stephenie",
+      "description": "",
+      "totalWords": 120004,
+      "totalPages": 121,
+      "totalChapters": 4
+    },
+    {
+      "id": "midnight-sun",
+      "title": "Midnight Sun",
+      "author": "Meyer, Stephenie",
+      "description": "",
+      "totalWords": 240567,
+      "totalPages": 241,
+      "totalChapters": 49
+    },
+    {
+      "id": "meyer-stephenie-new-moon",
+      "title": "Meyer, Stephenie - New Moon",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 133587,
+      "totalPages": 134,
+      "totalChapters": 5
+    },
+    {
+      "id": "eclipse-twilight-saga",
+      "title": "Eclipse (Twilight Saga)",
+      "author": "Stephanie Meyer",
+      "description": "",
+      "totalWords": 152412,
+      "totalPages": 153,
+      "totalChapters": 31
+    },
+    {
+      "id": "breaking-dawn-twilight-saga",
+      "title": "Breaking Dawn (Twilight Saga)",
+      "author": "Stephanie Meyer",
+      "description": "",
+      "totalWords": 188402,
+      "totalPages": 189,
+      "totalChapters": 38
     }
   ],
-  "updatedAt": "2026-04-21T21:21:52.641Z"
+  "updatedAt": "2026-04-24T02:18:22.246Z"
 }
