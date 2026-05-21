@@ -73,6 +73,24 @@
       "totalChapters": 47
     },
     {
+      "id": "get-in-trouble",
+      "title": "Get In Trouble",
+      "author": "Kelly Link",
+      "description": "A new, much anticipated collection of stories from the inimitable Kelly Link. 'These nine stories may begin in familiar territory - a birthday party, a theme park, a bar, a spaceship - but they quickly draw readers into an imaginative, disturbingly ominous world of realistic fantasy and unreal reality. Like Kafka hosting Saturday Night Live , Link mixes humour with existential dread...Her characters, driven by yearning and obsession, not only get in trouble but seek trouble out - to spectacular ",
+      "totalWords": 87748,
+      "totalPages": 88,
+      "totalChapters": 13
+    },
+    {
+      "id": "her-body-and-other-parties",
+      "title": "Her Body and Other Parties",
+      "author": "Carmen Maria Machado",
+      "description": "Longlisted for the National Book Award for Fiction \"[These stories] vibrate with originality, queerness, sensuality and the strange.\"&#8212;Roxane Gay \"In these formally brilliant and emotionally charged tales, Machado gives literal shape to women's memories and hunger and desire. I couldn't put it down.\"&#8212;Karen Russell In Her Body and Other Parties , Carmen Maria Machado blithely demolishes the arbitrary borders between psychological realism and science fiction, comedy and horror, fantasy ",
+      "totalWords": 72399,
+      "totalPages": 73,
+      "totalChapters": 13
+    },
+    {
       "id": "how-to-speak-whale-a-voyage-into-the-future-of-animal-communication",
       "title": "How to Speak Whale: A Voyage Into the Future of Animal Communication",
       "author": "Tom Mustill",
@@ -80,6 +98,15 @@
       "totalWords": 97580,
       "totalPages": 98,
       "totalChapters": 21
+    },
+    {
+      "id": "interpreter-of-maladies",
+      "title": "Interpreter of Maladies",
+      "author": "Lahiri, Jhumpa",
+      "description": "Navigating between the Indian traditions they've inherited and the baffling new world, the characters in Jhumpa Lahiri's elegant, touching stories seek love beyond the barriers of culture and generations. In \"A Temporary Matter,\" published in The New Yorker, a young Indian-American couple faces the heartbreak of a stillborn birth while their Boston neighborhood copes with a nightly blackout. In the title story, an interpreter guides an American family through the India of their ancestors and hea",
+      "totalWords": 62296,
+      "totalPages": 63,
+      "totalChapters": 12
     },
     {
       "id": "interstallar",
@@ -100,6 +127,15 @@
       "totalChapters": 134
     },
     {
+      "id": "jesus-son",
+      "title": "Jesus' Son",
+      "author": "Denis Johnson",
+      "description": "Paperback, 133 pages Published 1992 eBook Edition (2011) Book Riot 100 Modern Classics (1950-1997) Jesus' Son is a visionary chronicle of dreamers, addicts, and lost souls. These stories tell of spiraling grief and transcendence, of rock bottom and redemption, of getting lost and found and lost again. The raw beauty and careening energy of Denis Johnson's prose has earned this book a place among the classics of twentieth-century American literature. Recently adapted for the screen, this now-clas",
+      "totalWords": 27373,
+      "totalPages": 28,
+      "totalChapters": 18
+    },
+    {
       "id": "letters-to-a-young-poet",
       "title": "Letters to a Young Poet",
       "author": "Rainer Maria Rilke",
@@ -116,6 +152,15 @@
       "totalWords": 54458,
       "totalPages": 55,
       "totalChapters": 21
+    },
+    {
+      "id": "magic-for-beginners",
+      "title": "Magic for Beginners",
+      "author": "Kelly Link",
+      "description": "EDITORIAL REVIEW: *Magic for Beginners* is Kelly Link’s eagerly anticipated and critically acclaimed follow-up to her beloved debut, *Stranger Things Happen*. Cumulatively weirder and wiser” (*The Believer*), this new story collection riffs on zombies, marriage, witches, superheroes, haunted convenience stores, and weekly apocalyptic poker parties, among other things. Link’s work is truly unique. *Time Out New York* called her stories cross-genre gems,” and her admirers in the literary communi",
+      "totalWords": 70767,
+      "totalPages": 71,
+      "totalChapters": 11
     },
     {
       "id": "nonlinear-dynamics-and-chaos",
@@ -170,6 +215,15 @@
       "totalWords": 106139,
       "totalPages": 107,
       "totalChapters": 31
+    },
+    {
+      "id": "tenth-of-december-stories",
+      "title": "Tenth of December: Stories",
+      "author": "George P. Saunders",
+      "description": "One of the most important and blazingly original writers of his generation, George Saunders is an undisputed master of the short story, and Tenth of December is his most honest, accessible, and moving collection yet. In the taut opener, “Victory Lap,” a boy witnesses the attempted abduction of the girl next door and is faced with a harrowing choice: Does he ignore what he sees, or override years of smothering advice from his parents and act? In “Home,” a combat-damaged soldier moves back in with",
+      "totalWords": 56092,
+      "totalPages": 57,
+      "totalChapters": 16
     },
     {
       "id": "the-alignment-problem",
@@ -260,6 +314,15 @@
       "totalWords": 171823,
       "totalPages": 172,
       "totalChapters": 42
+    },
+    {
+      "id": "the-lottery-and-other-stories",
+      "title": "The Lottery and Other Stories",
+      "author": "Shirley Jackson",
+      "description": "",
+      "totalWords": 82390,
+      "totalPages": 83,
+      "totalChapters": 33
     },
     {
       "id": "the-martian",
@@ -406,5 +469,5 @@
       "totalChapters": 38
     }
   ],
-  "updatedAt": "2026-05-17T00:43:04.467Z"
+  "updatedAt": "2026-05-21T23:19:09.906Z"
 }
