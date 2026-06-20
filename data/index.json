@@ -10,6 +10,15 @@
       "totalChapters": 32
     },
     {
+      "id": "a-prayer-for-the-crown-shy-a-monk-and-robot-book",
+      "title": "A Prayer for the Crown-Shy--A Monk and Robot Book",
+      "author": "Becky Chambers",
+      "description": "A USA Today Bestseller! \"Tender and healing... I'm prescribing a preorder to anyone who has ever felt lost. Stunning, kind, necessary.\" &#8212;Sarah Gailey on book 1: A Psalm for the Wild-Built A Prayer for the Crown-Shy is a story of kindness and love from one of the foremost practitioners of hopeful SF. After touring the rural areas of Panga, Sibling Dex (a Tea Monk of some renown) and Mosscap (a robot sent on a quest to determine what humanity really needs) turn their attention to the village",
+      "totalWords": 33243,
+      "totalPages": 34,
+      "totalChapters": 15
+    },
+    {
       "id": "a-psalm-for-the-wild-built",
       "title": "A Psalm for the Wild-Built",
       "author": "Becky Chambers",
@@ -307,6 +316,15 @@
       "totalChapters": 6
     },
     {
+      "id": "the-house-in-the-cerulean-sea",
+      "title": "The House in the Cerulean Sea",
+      "author": "TJ Klune",
+      "description": "",
+      "totalWords": 116130,
+      "totalPages": 117,
+      "totalChapters": 27
+    },
+    {
       "id": "the-lightning-struck-heart",
       "title": "The Lightning-Struck Heart",
       "author": "T. J. Klune",
@@ -352,6 +370,15 @@
       "totalChapters": 37
     },
     {
+      "id": "file-5335",
+      "title": "file 5335",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 152225,
+      "totalPages": 153,
+      "totalChapters": 8
+    },
+    {
       "id": "the-three-body-problem",
       "title": "The Three-Body Problem",
       "author": "Cixin Liu",
@@ -386,6 +413,15 @@
       "totalWords": 121680,
       "totalPages": 122,
       "totalChapters": 58
+    },
+    {
+      "id": "under-the-whispering-door",
+      "title": "Under the Whispering Door",
+      "author": "TJ Klune",
+      "description": "",
+      "totalWords": 120767,
+      "totalPages": 121,
+      "totalChapters": 27
     },
     {
       "id": "a-court-of-thorns-and-roses",
@@ -469,5 +505,5 @@
       "totalChapters": 38
     }
   ],
-  "updatedAt": "2026-05-21T23:19:09.906Z"
+  "updatedAt": "2026-06-20T00:12:53.960Z"
 }
