@@ -505,6 +505,15 @@
       "totalChapters": 64
     },
     {
+      "id": "the-wicked-years-complete-collection-wicked-son-of-a-witch-a-lion-among-men-and-out-of-oz",
+      "title": "The Wicked Years Complete Collection: Wicked, Son of a Witch, a Lion Among Men, and Out of Oz",
+      "author": "Gregory Maguire",
+      "description": "The complete eBook collection of the New York Times bestselling The Wicked Years series by Gregory Maguire, including Wicked , Son of a Witch , A Lion Among Men , and Out of Oz .",
+      "totalWords": 614339,
+      "totalPages": 615,
+      "totalChapters": 132
+    },
+    {
       "id": "the-art-of-gathering-how-we-meet-and-why-it-matters",
       "title": "The Art of Gathering: How We Meet and Why It Matters",
       "author": "Priya Parker",
@@ -631,5 +640,5 @@
       "totalChapters": 38
     }
   ],
-  "updatedAt": "2026-06-20T00:58:31.152Z"
+  "updatedAt": "2026-06-20T01:04:09.218Z"
 }
