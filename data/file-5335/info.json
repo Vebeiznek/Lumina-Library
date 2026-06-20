@@ -1,0 +1,68 @@
+{
+  "id": "file-5335",
+  "title": "file 5335",
+  "author": "Unknown",
+  "description": "",
+  "filename": "The Starless Sea _ A Novel -- Morgenstern, Erin -- Penguin Random House LLC, New York, 2019 -- Bantam Doubleday Dell Books for Young Readers -- isbn13 9780385541213 -- 8b42a8d3a06e0a0753d214ae2ac92db5 -- Anna’s Archiv.epub",
+  "totalWords": 152225,
+  "totalPages": 153,
+  "totalChapters": 8,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Book I",
+      "wordCount": 35419,
+      "pageCount": 36,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Book II",
+      "wordCount": 26588,
+      "pageCount": 27,
+      "startPage": 37
+    },
+    {
+      "index": 3,
+      "title": "Book III",
+      "wordCount": 13443,
+      "pageCount": 14,
+      "startPage": 64
+    },
+    {
+      "index": 4,
+      "title": "book borrowing",
+      "wordCount": 11458,
+      "pageCount": 12,
+      "startPage": 78
+    },
+    {
+      "index": 5,
+      "title": "Book IV",
+      "wordCount": 1224,
+      "pageCount": 2,
+      "startPage": 90
+    },
+    {
+      "index": 6,
+      "title": "book",
+      "wordCount": 12764,
+      "pageCount": 13,
+      "startPage": 92
+    },
+    {
+      "index": 7,
+      "title": "Book V",
+      "wordCount": 24007,
+      "pageCount": 25,
+      "startPage": 105
+    },
+    {
+      "index": 8,
+      "title": "Book VI",
+      "wordCount": 27322,
+      "pageCount": 28,
+      "startPage": 130
+    }
+  ]
+}
