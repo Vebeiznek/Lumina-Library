@@ -10,6 +10,15 @@
       "totalChapters": 32
     },
     {
+      "id": "a-lady-for-a-duke",
+      "title": "A Lady for a Duke",
+      "author": "Alexis Hall",
+      "description": "When Viola Carroll was presumed dead at Waterloo she took the opportunity to live, at last, as herself. But freedom does not come without a price, and Viola paid for hers with the loss of her wealth, her title, and her closest companion, Justin de Vere, the Duke of Gracewood. Only when their families reconnect, years after the war, does Viola learn how deep that loss truly was. Shattered without her, Gracewood has retreated so far into grief that Viola barely recognises her old friend in the lon",
+      "totalWords": 122665,
+      "totalPages": 123,
+      "totalChapters": 56
+    },
+    {
       "id": "a-prayer-for-the-crown-shy-a-monk-and-robot-book",
       "title": "A Prayer for the Crown-Shy--A Monk and Robot Book",
       "author": "Becky Chambers",
@@ -71,6 +80,15 @@
       "totalWords": 140963,
       "totalPages": 141,
       "totalChapters": 198
+    },
+    {
+      "id": "dracula-world-classics-unabridged",
+      "title": "Dracula (World Classics, Unabridged)",
+      "author": "Bram Stoker",
+      "description": "",
+      "totalWords": 160385,
+      "totalPages": 161,
+      "totalChapters": 22
     },
     {
       "id": "dune",
@@ -271,6 +289,15 @@
       "totalChapters": 14
     },
     {
+      "id": "poe-edgar-allen-the-complete-works-of-edgar-allen-poe",
+      "title": "Poe, Edgar Allen - The Complete Works of Edgar Allen Poe",
+      "author": "Volume 01-05",
+      "description": "",
+      "totalWords": 449151,
+      "totalPages": 450,
+      "totalChapters": 1
+    },
+    {
       "id": "reincarnation-blues",
       "title": "Reincarnation Blues",
       "author": "Michael Poore",
@@ -278,6 +305,33 @@
       "totalWords": 106139,
       "totalPages": 107,
       "totalChapters": 31
+    },
+    {
+      "id": "star-wars-episode-ii-attack-of-the-clones",
+      "title": "Star Wars Episode II: Attack of the Clones",
+      "author": "R. A. Salvatore",
+      "description": "There is a great disturbance in the Force… . From the sleek ships of the glimmering Coruscant skyscape to the lush gardens of pastoral Naboo, dissent is roiling. The Republic is failing, even under the leadership of Supreme Chancellor Palpatine, elected ten years earlier to save the crumbling government. Separatists threaten war, and the Senate is hopelessly divided, unable to determine whether to raise an army for battle or keep the fragile peace. It is a stalemate that once broken, could lead ",
+      "totalWords": 91552,
+      "totalPages": 92,
+      "totalChapters": 27
+    },
+    {
+      "id": "star-wars-episode-i-the-phantom-menace",
+      "title": "Star Wars Episode I: The Phantom Menace",
+      "author": "Terry Brooks",
+      "description": "A long time ago in a galaxy far, far away, an evil legacy long believed dead is stirring. Now the dark side of the Force threatens to overwhelm the light, and only an ancient Jedi prophecy stands between hope and doom for the entire galaxy. On the green, unspoiled world of Naboo, Jedi Master Qui-Gon Jinn and his apprentice, Obi-Wan Kenobi, arrive to protect the realm’s young queen as she seeks a diplomatic solution to end the siege of her planet by Trade Federation warships. At the same time, on",
+      "totalWords": 86750,
+      "totalPages": 87,
+      "totalChapters": 26
+    },
+    {
+      "id": "star-wars-episode-iii-revenge-of-the-sith",
+      "title": "Star Wars®: Episode III: Revenge of the Sith™",
+      "author": "by Patricia C. Wrede, created by George Lucas",
+      "description": "",
+      "totalWords": 38738,
+      "totalPages": 39,
+      "totalChapters": 25
     },
     {
       "id": "tenth-of-december-stories",
@@ -577,5 +631,5 @@
       "totalChapters": 38
     }
   ],
-  "updatedAt": "2026-06-20T00:38:47.691Z"
+  "updatedAt": "2026-06-20T00:58:31.152Z"
 }
