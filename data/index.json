@@ -37,6 +37,15 @@
       "totalChapters": 16
     },
     {
+      "id": "an-abundance-of-katherines",
+      "title": "An Abundance of Katherines",
+      "author": "John Green",
+      "description": "",
+      "totalWords": 73110,
+      "totalPages": 74,
+      "totalChapters": 48
+    },
+    {
       "id": "anne-rice-anthology",
       "title": "Anne Rice Anthology",
       "author": "Anne Rice",
@@ -136,6 +145,15 @@
       "totalChapters": 13
     },
     {
+      "id": "green-john-paper-towns",
+      "title": "Green, John - Paper Towns",
+      "author": "Green, John",
+      "description": "",
+      "totalWords": 83751,
+      "totalPages": 84,
+      "totalChapters": 38
+    },
+    {
       "id": "her-body-and-other-parties",
       "title": "Her Body and Other Parties",
       "author": "Carmen Maria Machado",
@@ -143,6 +161,15 @@
       "totalWords": 72399,
       "totalPages": 73,
       "totalChapters": 13
+    },
+    {
+      "id": "how-high-we-go-in-the-dark",
+      "title": "How High We Go in the Dark",
+      "author": "Sequoia Nagamatsu",
+      "description": "\"Haunting and luminous, How High We Go In The Dark orchestrates its multitude of memorable voices into beautiful and lucid science fiction. An astonishing debut.\" &#8212; Alan Moore, creator of Watchmen and V for Vendetta \"Epic . . . Sequoia Nagamatsu is a writer whose imagination is matched only by his compassion, the kind we need to light our way through the dark.\" &#8212; Chloe Benjamin, New York Times bestselling author of The Immortalists For fans of Cloud Atlas and Station Eleven, a spellb",
+      "totalWords": 90377,
+      "totalPages": 91,
+      "totalChapters": 20
     },
     {
       "id": "how-to-speak-whale-a-voyage-into-the-future-of-animal-communication",
@@ -224,6 +251,15 @@
       "totalWords": 137666,
       "totalPages": 138,
       "totalChapters": 32
+    },
+    {
+      "id": "looking-for-alaska",
+      "title": "Looking for Alaska",
+      "author": "John Green",
+      "description": "Winner of the Michael L. Printz Award An ALA Best Book for Young Adults An ALA Quick Pick A Los Angeles Times 2005 Book Prize Finalist A New York Public Library Book for the Teen Age A 2005 Booklist Editor’s Choice A 2005 School Library Journal Best Book of the Year Before. Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He ",
+      "totalWords": 73923,
+      "totalPages": 74,
+      "totalChapters": 69
     },
     {
       "id": "lord-loss",
@@ -397,6 +433,15 @@
       "totalChapters": 14
     },
     {
+      "id": "the-fault-in-our-stars",
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "description": "Soon to Be a Major Motion Picture TODAY Book Club pick TIME Magazine's #1 Fiction Book of 2012 \"The greatest romance story of this decade.\" &#8212; Entertainment Weekly -Millions of copies sold- #1 New York Times Bestseller #1 Wall Street Journal Bestseller #1 USA Today Bestseller #1 International Bestseller #1 Indie Bestseller Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But w",
+      "totalWords": 67030,
+      "totalPages": 68,
+      "totalChapters": 32
+    },
+    {
       "id": "the-hidden-life-of-trees",
       "title": "The Hidden Life of Trees",
       "author": "Peter Wohlleben",
@@ -550,6 +595,15 @@
       "totalChapters": 58
     },
     {
+      "id": "turtles-all-the-way-down",
+      "title": "Turtles All the Way Down",
+      "author": "John Green",
+      "description": "THE INSTANT #1 BESTSELLER! FEATURED ON 60 MINUTES and FRESH AIR &ldquo;So surprising and moving and true that I became completely unstrung.&rdquo;&#160;&ndash;&#160; The New York Times Named a best book of the year by:&#160; The &#160; New York Times,&#160; NPR,&#160; TIME ,&#160; Wall Street Journal ,&#160; Boston Globe , &#160;Entertainment Weekly ,&#160; Southern Living ,&#160; Publishers Weekly , &#160;BookPage , &#160; A.V. Club, Bustle, BuzzFeed, Vulture, and many more! JOHN GREEN , the ac",
+      "totalWords": 66535,
+      "totalPages": 67,
+      "totalChapters": 30
+    },
+    {
       "id": "under-the-whispering-door",
       "title": "Under the Whispering Door",
       "author": "TJ Klune",
@@ -557,6 +611,15 @@
       "totalWords": 120767,
       "totalPages": 121,
       "totalChapters": 27
+    },
+    {
+      "id": "will-grayson-will-grayson",
+      "title": "Will Grayson, Will Grayson",
+      "author": "John Green; David Levithan",
+      "description": "Amazon.com Review Will Grayson, Will Grayson is about a couple of kids figuring out how to be themselves. Two of those kids happen to have the same name, and not much in common outside of that, but their serendipitous friendship sets the stage for a much larger, braver, and more candid story than the simplicity of the plot might suggest. The relevance for teens here is clear--high school is the only time in your life when you have the undivided opportunity to obsess over your every move, sentenc",
+      "totalWords": 75493,
+      "totalPages": 76,
+      "totalChapters": 23
     },
     {
       "id": "a-court-of-thorns-and-roses",
@@ -640,5 +703,5 @@
       "totalChapters": 38
     }
   ],
-  "updatedAt": "2026-06-20T01:14:26.275Z"
+  "updatedAt": "2026-06-27T00:53:31.882Z"
 }
